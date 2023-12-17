@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-25T00:42:14 IST" name="Default suite" finished-at="2023-09-25T00:42:28 IST" duration-ms="14243">
+    <groups>
+    </groups>
+    <test started-at="2023-09-25T00:42:14 IST" name="Default test" finished-at="2023-09-25T00:42:28 IST" duration-ms="14243">
+      <class name="com.qa.pavan.ChromeDevToolsDemo">
+        <test-method signature="consoleLogs()[pri:0, instance:com.qa.pavan.ChromeDevToolsDemo@2e8c1c9b]" started-at="2023-09-25T00:42:14 IST" name="consoleLogs" finished-at="2023-09-25T00:42:28 IST" duration-ms="14163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- consoleLogs -->
+      </class> <!-- com.qa.pavan.ChromeDevToolsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
